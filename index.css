@@ -1,0 +1,58 @@
+.mypic {
+    border-radius: 50%;
+    display: block;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    border-style:dashed;
+}
+h2 {
+    text-align: right;
+    font-size: 70px;
+    margin-right: 25px;
+    margin-top:5px;
+    margin-bottom:7px;
+}
+
+.first{
+    text-align: center;
+    font-size: 25px;
+
+}
+body{
+    background-color: darkseagreen;
+}
+
+.inf{
+    float: left;
+    padding-bottom: 15px;
+    padding-right: 7px;
+}
+.info{
+    font-size: 25px;
+    padding-bottom: 45px;
+}
+.vl {
+    border-left: 6px solid black;
+    height: 260px;
+    float: left;
+    padding-right: 15px;
+  }
+.faves{
+    float: right;
+    padding-bottom: 15px;
+}
+.fave{
+    text-align: center;
+    font-size: 24px;
+    padding-right: 5px;
+    margin-left: 20px;
+    padding-right: 10px;
+}
+.v2 {
+    border-left: 6px solid black;
+    height: 350px;
+    float: right;
+    padding-right: 25px;
+  }
